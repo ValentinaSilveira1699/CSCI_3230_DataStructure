@@ -1,0 +1,10 @@
+(Occurrences of a specified character in an array)
+Write a recursive method that finds the number of occurrences of a specified character in an array. You need to define the following two methods. The second one is a recursive helper method.
+public static int count(char[] chars, char ch)
+public static int count(char[] chars, char ch, int high) 
+Write a test program that prompts the user to enter a list of characters in one line, and a character, and displays the number of occurrences of the character in the list.
+Sample Run
+Enter a string: Welcome to Java
+Enter a character: e
+e appears 2 times
+Class Name: Exercise18_17

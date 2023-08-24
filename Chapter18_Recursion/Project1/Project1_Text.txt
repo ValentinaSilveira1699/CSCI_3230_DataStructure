@@ -1,0 +1,6 @@
+(Factorial)
+Using the BigInteger class introduced in Section 10.9, you can find the factorial for a large number (e.g., 100!). Implement the factorial method for BigInteger using recursion. Write a program that prompts the user to enter an integer and displays its factorial.
+Sample Run
+Enter an integer of any size: 25
+Factorial of 25 is 15511210043330985984000000
+Class Name: Exercise18_01

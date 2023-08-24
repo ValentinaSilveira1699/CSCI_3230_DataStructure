@@ -1,0 +1,11 @@
+(Decimal to binary)
+Write a recursive method that converts a decimal number into a binary number as a string. The method header is:
+public static String dec2Bin(int value) 
+Write a test program that prompts the user to enter a decimal number and displays its binary equivalent.
+Sample Run 1
+Enter a decimal integer: 35
+35 decimal is binary 100011 
+Sample Run 2
+Enter a decimal integer: 127
+127 decimal is binary 1111111
+Class Name: Exercise18_21

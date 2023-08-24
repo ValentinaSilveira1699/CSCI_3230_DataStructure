@@ -1,0 +1,8 @@
+(Sum the digits in an integer using recursion)
+Write a recursive method that computes the sum of the digits in an integer. Use the following method header:
+public static int sumDigits(long n)
+For example, sumDigits(234) returns 2 + 3 + 4 = 9. Write a test program that prompts the user to enter an integer and displays its sum.
+Sample Run
+Enter an integer: 1234
+The sum of digits in 1234 is 10
+Class Name: Exercise18_11
